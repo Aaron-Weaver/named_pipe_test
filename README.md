@@ -18,8 +18,10 @@ client process. Both processes should synchronize
 using expecte output from the named pipes, and
 should close using a similar approach.
 
------> For a more detailed look at the program
------> see the source code and its comments.
+```sh
+For a more detailed look at the program
+see the source code and its comments.
+```
 
 ======================================================
 
